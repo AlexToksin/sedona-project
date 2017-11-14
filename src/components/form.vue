@@ -12,7 +12,7 @@
           </li>
 
           <li class="form-callback__item">
-            <div class="form-callback__fio">
+            <div class="form-callback__requisites">
               <div class="form-callback__title">Представьтесь, пожалуйста:</div>
               <div class="form-callback__name">
                 <div class="form-callback__text">Name</div>
