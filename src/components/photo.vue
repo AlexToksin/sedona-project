@@ -12,9 +12,9 @@
         <div class="foto-video__title foto-video__title_small">Неродные просторы</div>
         <div class="foto-video__title foto-video__text_small">Автор фото:</div>
          <div class="foto-video__title foto-video__text_small">***</div>
-        <div class="foto-video__like">
+        <div class="like">
           <a href=""><img src="" alt="" class="like"></a>
-          <div class="foto-video__counter"></div>
+          <div class="counter"></div>
         </div>
       </li>
         <li class="foto-video__item">
@@ -22,9 +22,9 @@
           <div class="foto-video__title foto-video__title_small">Местная растительность</div>
           <div class="foto-video__title foto-video__text_small">Автор фото:</div>
           <div class="foto-video__title foto-video__text_small">***</div>
-          <div class="foto-video__like">
+          <div class="like">
             <a href=""><img src="" alt="" class="like"></a>
-            <div class="foto-video__counter"></div>
+            <div class="counter"></div>
           </div>
         </li>
         <li class="foto-video__item">
@@ -32,9 +32,9 @@
           <div class="foto-video__title foto-video__title_small">Дорога на север</div>
           <div class="foto-video__title foto-video__text_small">Автор фото:</div>
           <div class="foto-video__title foto-video__text_small">***</div>
-          <div class="foto-video__like">
+          <div class="like">
             <a href=""><img src="" alt="" class="like"></a>
-            <div class="foto-video__counter"></div>
+            <div class="counter"></div>
           </div>
         </li>
         <li class="foto-video__item">
@@ -44,7 +44,7 @@
           <div class="foto-video__title foto-video__text_small">***</div>
           <div class="like">
             <a href=""><img src="" alt="" class="like"></a>
-            <div class="foto-video__counter"></div>
+            <div class="counter"></div>
           </div>
         </li>
       </ul>
@@ -53,14 +53,14 @@
       <div class="presentation__title">Все еще сомневаетесь?</div>
       <div class="presentation__text">Смотрите видеопрезентацию и скорее за билетами,
         пока они не подорожали в очередной раз!</div>
-      <div class="slider">
+      <div class="video">
         <img src="" alt="">
         <img src="" alt="">
         <img src="" alt="">
       </div>
       <div class="like">
         <a href=""><img src="" alt="" class="like"></a>
-        <div class="foto-video__counter"></div>
+        <div class="counter"></div>
       </div>
     </div>
   </div>

@@ -5,25 +5,25 @@
         <ul class="form-callback__list">
           <li class="form-callback__item">
             <div class="form-callback__head">
-              <div class="form-callback__title">Оставьте свой отзыв  </div>
-              <div class="form-callback__text">Помогите нашим отелям стать лучше!
+              <div class="title">Оставьте свой отзыв  </div>
+              <div class="text">Помогите нашим отелям стать лучше!
                 оставьте отзыв о них, а также о посещенных вами достопримечательностях</div>
             </div>
           </li>
 
           <li class="form-callback__item">
             <div class="form-callback__requisites">
-              <div class="form-callback__title">Представьтесь, пожалуйста:</div>
+              <div class="title">Представьтесь, пожалуйста:</div>
               <div class="form-callback__name">
-                <div class="form-callback__text">Name</div>
+                <div class="text">Name</div>
                 <input type="text" class="name" placeholder="Alex">
               </div>
               <div class="form-callback__lastname">
-                <div class="form-callback__text">Lastname</div>
+                <div class="text">Lastname</div>
                 <input type="text" class="lastname" placeholder="Toksin">
               </div>
               <div class="form-callback__firstname">
-                <div class="form-callback__text">Firstname</div>
+                <div class="text">Firstname</div>
                 <input type="text" class="firstname" placeholder="Vyacheslavovich">
               </div>
             </div>
@@ -31,18 +31,18 @@
 
           <li class="form-callback__item">
             <div class="form-callback__contacts">
-              <div class="form-callback__title"></div>
+              <div class="title">Контактная информация</div>
 
               <div class="form-callback__number">
-                <div class="form-callback__text">Contact number</div>
-                <input type="text" class="number" placeholder="Enter your number">
+                <div class="text">Контактный номер</div>
+                <input type="text" class="number" placeholder="Введите номер">
                 <img src="" alt="" class="telefon">
-                <div class="form-callback__error">Please, renumber contact number</div>
+                <div class="form-callback__error">Пожалуйста, проверте номер</div>
               </div>
 
               <div class="form-callback__mail">
-                <div class="form-callback__text">Contact mail</div>
-                <input type="text" class="mail" placeholder="Enter your mail">
+                <div class="text">Электронная почта</div>
+                <input type="text" class="mail" placeholder="Введите почту">
                 <img src="" alt="" class="mail">
                 <div class="form-callback__error">Please, renumber contact mail</div>
               </div>
@@ -51,7 +51,7 @@
 
           <li class="form-callback__item">
             <div class="form-callback__fan">
-              <div class="form-callback__title">ВАше Общее впечатление:</div>
+              <div class="title">ВАше Общее впечатление:</div>
               <input type="radio" name="fan" value="rad1">Скорее положительное
               <input type="radio" name="fan" value="rad2">Скорее отрицательное
               <input type="radio" name="fan" value="rad3">Затрудняюсь ответить
@@ -60,7 +60,7 @@
 
           <li class="form-callback__item">
             <div class="form-callback__landmarks">
-              <div class="form-callback__title">посещенные  достопримечательности:</div>
+              <div class="title">посещенные  достопримечательности:</div>
               <input type="checkbox" name="visit" value="check1">Мост Дьявола
               <input type="checkbox" name="visit" value="check2">Слайд-парк
               <input type="checkbox" name="visit" value="check3">Гора-Колокол
@@ -70,8 +70,8 @@
 
           <li class="form-callback__item">
             <div class="form-callback__emodzi">
-              <div class="form-callback__title">Опишите свои эмоции:</div>
-                <input type="text" class="number" value="Опишите подробно свои восторги...">
+              <div class="title">Опишите свои эмоции:</div>
+                <input type="text" class="number" placeholder="Опишите подробно свои восторги...">
              <div class="btn">оставить отзыв</div>
             </div>
           </li>
