@@ -14,7 +14,7 @@
           </li>
           <li class="main-nav__item">
             <div class="sedona-foto sedona__foto_small">
-              <img src="" alt="" class="foto">
+              <img src="" alt="foto" class="foto">
               <div class="sedona-foto__welcome">Welcome</div>
               <div class="sedona-foto_gorgeous">to the gorgeous</div>
               <div class="sedona-foto__sedona">SEDONA</div>
