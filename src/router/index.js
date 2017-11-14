@@ -3,7 +3,6 @@ import Router from 'vue-router'
 import Index from '@/components/index'
 import Form from '@/components/form'
 import Photo from '@/components/photo'
-
 Vue.use(Router)
 
 export default new Router({
@@ -20,7 +19,7 @@ export default new Router({
           component: Form
       },
         {
-          path: '/form/photo',
+          path: '/photo',
           name: 'Photo',
           component: Photo
         }
