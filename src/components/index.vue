@@ -4,59 +4,59 @@
     <div class="as-sedona">
       <div class="as-sedona__wrapper">
         <div class="as-sedona__title-wraper">
-          <div class="as-sedona__title">СЕДОНА — небольшой  городок в АРИЗОНЕ,  зАСЛУЖИвающий большего!  </div>
-          <div class="as-sedona__text">Рассмотрим 5 причин, по которым Седона круче чем гранд каньон!</div>
+          <div class="title">СЕДОНА — небольшой  городок в АРИЗОНЕ,  зАСЛУЖИвающий большего!  </div>
+          <div class="text">Рассмотрим 5 причин, по которым Седона круче чем гранд каньон!</div>
         </div>
         <ul class="as-sedona__list">
-          <li class="as-sedona_item">
-            <div class="as-sedona__title as-sedona__title_white">НАСТОЯЩИЙ ГОРОДОК  </div>
-            <div class="as-sedona_count">— №1 —  </div>
-            <div class="as-sedona__text as-sedona__text_white">СЕДОНА НЕ АТРАКЦИОН ДЛЯ ТУРИСТОВ, ТАМ ТЕЧЕТ СВОЯ ЖИЗНЬ</div>
+          <li class="as-sedona__item">
+            <div class="title title_color">НАСТОЯЩИЙ ГОРОДОК  </div>
+            <div class="count">— №1 —  </div>
+            <div class="text text_white">СЕДОНА НЕ АТРАКЦИОН ДЛЯ ТУРИСТОВ, ТАМ ТЕЧЕТ СВОЯ ЖИЗНЬ</div>
             <div class="as-sedona__visible-list">
-            <ul class="as-sedona__list-in-list">
+            <ul class="as-sedona__list">
               <li class="as-sedona__item"><img src="" class="foto" alt="image"></li>
               <li class="as-sedona__item">
                 <img src="" alt="" class="ico" alt="ico">
-                <div class="as-sedona__title">Жилье</div>
-                <div class="as-sedona__text">Рекомендуем пожить в настоящем мотеле, все как в кино!</div>
+                <div class="title">Жилье</div>
+                <div class="text">Рекомендуем пожить в настоящем мотеле, все как в кино!</div>
               </li>
               <li class="as-sedona__item">
                 <img src="" alt="" class="ico" alt="ico">
-                <div class="as-sedona__title">СУВЕНИРЫ  </div>
-                <div class="as-sedona__text">Не только китайского, но и местного производства!</div>
+                <div class="title">СУВЕНИРЫ  </div>
+                <div class="text">Не только китайского, но и местного производства!</div>
               </li>
               <li class="as-sedona__item">
                 <img src="" alt="" class="ico" alt="ico">
-                <div class="as-sedona__title">ЕДА  </div>
-                <div class="as-sedona__text">Всегда заказывайте ФИРМЕННЫЙ БУРГЕР, Вы НЕ разочаруетесь!</div>
+                <div class="title">ЕДА  </div>
+                <div class="text">Всегда заказывайте ФИРМЕННЫЙ БУРГЕР, Вы НЕ разочаруетесь!</div>
               </li>
             </ul>
             </div>
           </li>
-          <li class="as-sedona_item">
-            <div class="as-sedona__title as-sedona__title_white">ТАМ ЕСТЬ Мост дьявола</div>
-            <div class="as-sedona_count">— №2 —  </div>
-            <div class="as-sedona__text as-sedona__text_white">  Да, по нему можно пройти! Если конечно вы осмелитесь</div>
+          <li class="as-sedona__item">
+            <div class="title title_white">ТАМ ЕСТЬ Мост дьявола</div>
+            <div class="as-sedona__count">— №2 —  </div>
+            <div class="text text_color">  Да, по нему можно пройти! Если конечно вы осмелитесь</div>
             <div class="as-sedona__visible-list">
               <img src="" class="foto" alt="image">
             </div>
           </li>
-          <li class="as-sedona_item">
-            <div class="as-sedona__title">НЕБОЛЬШАЯ ПЛОЩАДЬ    </div>
-            <div class="as-sedona_count">— №3 —  </div>
-            <div class="as-sedona__text">ВСЕ достопримечательности находятся очень близко</div>
+          <li class="as-sedona__item">
+            <div class="title">НЕБОЛЬШАЯ ПЛОЩАДЬ    </div>
+            <div class="as-sedona__count">— №3 —  </div>
+            <div class="text">ВСЕ достопримечательности находятся очень близко</div>
             <div class="as-sedona__visible-list"></div>
           </li>
-          <li class="as-sedona_item">
-            <div class="as-sedona__title">КРАСИВАЯ ДОРОГА    </div>
-            <div class="as-sedona_count">— №4 —  </div>
-            <div class="as-sedona__text">ЕХАТЬ В СЕДОНУ ИЗ ЛАС-ВЕГАСА  совсем НЕ СКУЧНО!</div>
+          <li class="as-sedona__item">
+            <div class="title">КРАСИВАЯ ДОРОГА    </div>
+            <div class="as-sedona__count">— №4 —  </div>
+            <div class="text">ЕХАТЬ В СЕДОНУ ИЗ ЛАС-ВЕГАСА  совсем НЕ СКУЧНО!</div>
             <div class="as-sedona__visible-list"></div>
           </li>
-          <li class="as-sedona_item">
-            <div class="as-sedona__title">МАЛО ТУРИСТОВ</div>
-            <div class="as-sedona_count">— №5 —  </div>
-            <div class="as-sedona__text">Большинство едет в гранд каньон и толпится там</div>
+          <li class="as-sedona__item">
+            <div class="title">МАЛО ТУРИСТОВ</div>
+            <div class="as-sedona__count">— №5 —  </div>
+            <div class="text">Большинство едет в гранд каньон и толпится там</div>
             <div class="as-sedona__visible-list"></div>
           </li>
         </ul>

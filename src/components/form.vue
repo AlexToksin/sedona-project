@@ -14,15 +14,15 @@
           <li class="form-callback__item">
             <div class="form-callback__requisites">
               <div class="title">Представьтесь, пожалуйста:</div>
-              <div class="form-callback__name">
+              <div class="form-callback__item">
                 <div class="text">Name</div>
                 <input type="text" class="name" placeholder="Alex">
               </div>
-              <div class="form-callback__lastname">
+              <div class="form-callback__item">
                 <div class="text">Lastname</div>
-                <input type="text" class="lastname" placeholder="Toksin">
+                <input type="text" class="item" placeholder="Toksin">
               </div>
-              <div class="form-callback__firstname">
+              <div class="form-callback__item">
                 <div class="text">Firstname</div>
                 <input type="text" class="firstname" placeholder="Vyacheslavovich">
               </div>
@@ -50,28 +50,28 @@
           </li>
 
           <li class="form-callback__item">
-            <div class="form-callback__fan">
-              <div class="title">ВАше Общее впечатление:</div>
-              <input type="radio" name="fan" value="rad1">Скорее положительное
-              <input type="radio" name="fan" value="rad2">Скорее отрицательное
-              <input type="radio" name="fan" value="rad3">Затрудняюсь ответить
+            <div class="form-callback__sample">
+              <div class="title">Ваше Общее впечатление:</div>
+              <label><input type="radio" name="fan" value="rad1">Скорее положительное</label>
+              <label><input type="radio" name="fan" value="rad2">Скорее отрицательное</label>
+              <label><input type="radio" name="fan" value="rad3">Затрудняюсь ответить</label>
             </div>
           </li>
 
           <li class="form-callback__item">
-            <div class="form-callback__landmarks">
+            <div class="form-callback__sample">
               <div class="title">посещенные  достопримечательности:</div>
-              <input type="checkbox" name="visit" value="check1">Мост Дьявола
-              <input type="checkbox" name="visit" value="check2">Слайд-парк
-              <input type="checkbox" name="visit" value="check3">Гора-Колокол
-              <input type="checkbox" name="visit" value="check4">Красные скалы
+              <label><input type="checkbox" name="visit" value="check1">Мост Дьявола</label>
+              <label><input type="checkbox" name="visit" value="check2">Слайд-парк</label>
+              <label><input type="checkbox" name="visit" value="check3">Гора-Колокол</label>
+              <label><input type="checkbox" name="visit" value="check4">Красные скалы</label>
             </div>
           </li>
 
           <li class="form-callback__item">
             <div class="form-callback__emodzi">
               <div class="title">Опишите свои эмоции:</div>
-                <input type="text" class="number" placeholder="Опишите подробно свои восторги...">
+              <textarea class="number" placeholder="Опишите подробно свои восторги..."></textarea>
              <div class="btn">оставить отзыв</div>
             </div>
           </li>

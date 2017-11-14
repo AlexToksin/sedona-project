@@ -1,17 +1,16 @@
 <template>
   <div>
     <div class="foto-video">
-      <div class="foto-video_head">
-        <div class="foto-video__title">Фото и видео  </div>
-        <div class="foto-video__text">Не можете решиться на путешествие из-за курса?
+      <div class="foto-video__head">
+        <div class="title">Фото и видео  </div>
+        <div class="text">Не можете решиться на путешествие из-за курса?
           Фотографии помогут вам забыть о политике и экономике. </div>
       </div>
       <ul class="foto-video__list">
        <li class="foto-video__item">
         <img src="" alt="" class="foto">
-        <div class="foto-video__title foto-video__title_small">Неродные просторы</div>
-        <div class="foto-video__title foto-video__text_small">Автор фото:</div>
-         <div class="foto-video__title foto-video__text_small">***</div>
+        <div class="foto-video__title">Неродные просторы</div>
+        <div class="foto-video__text">Автор фото:<span></span></div>
         <div class="like">
           <a href=""><img src="" alt="" class="like"></a>
           <div class="counter"></div>
@@ -19,9 +18,8 @@
       </li>
         <li class="foto-video__item">
           <img src="" alt="" class="foto">
-          <div class="foto-video__title foto-video__title_small">Местная растительность</div>
-          <div class="foto-video__title foto-video__text_small">Автор фото:</div>
-          <div class="foto-video__title foto-video__text_small">***</div>
+          <div class="foto-video__title">Местная растительность</div>
+          <div class="foto-video__text">Автор фото: <span></span></div>
           <div class="like">
             <a href=""><img src="" alt="" class="like"></a>
             <div class="counter"></div>
@@ -29,9 +27,8 @@
         </li>
         <li class="foto-video__item">
           <img src="" alt="" class="foto">
-          <div class="foto-video__title foto-video__title_small">Дорога на север</div>
-          <div class="foto-video__title foto-video__text_small">Автор фото:</div>
-          <div class="foto-video__title foto-video__text_small">***</div>
+          <div class="foto-video__title">Дорога на север</div>
+          <div class="foto-video__text">Автор фото: <span></span></div>
           <div class="like">
             <a href=""><img src="" alt="" class="like"></a>
             <div class="counter"></div>
@@ -39,9 +36,8 @@
         </li>
         <li class="foto-video__item">
           <img src="" alt="" class="foto">
-          <div class="foto-video__title foto-video__title_small">Мост дьявола</div>
-          <div class="foto-video__title foto-video__text_small">Автор фото:</div>
-          <div class="foto-video__title foto-video__text_small">***</div>
+          <div class="foto-video__title">Мост дьявола</div>
+          <div class="foto-video__text">Автор фото: <span></span></div>
           <div class="like">
             <a href=""><img src="" alt="" class="like"></a>
             <div class="counter"></div>
@@ -54,9 +50,7 @@
       <div class="presentation__text">Смотрите видеопрезентацию и скорее за билетами,
         пока они не подорожали в очередной раз!</div>
       <div class="video">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
+
       </div>
       <div class="like">
         <a href=""><img src="" alt="" class="like"></a>
