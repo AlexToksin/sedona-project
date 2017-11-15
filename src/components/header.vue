@@ -1,7 +1,7 @@
 <template>
   <div>
     <!--header-->
-    <header>
+    <header class="header">
       <div class="main-nav">
         <ul class="main-nav__list">
           <li class="main-nav__item"><a href="">Главная</a></li>

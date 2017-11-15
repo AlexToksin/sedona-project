@@ -1,7 +1,7 @@
 <template>
   <div>
     <!--footer-->
-    <footer>
+    <footer class="footer">
         <a href="" class="visit-sedona">#VISITSEDONA</a>
         <div class="social-link">
           <div class="social-link__item"><a href=""><img src="" alt="">Твитер</a></div>
