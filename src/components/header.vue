@@ -12,14 +12,14 @@
             <div class="welcome__logo"><img src="" class="logo" alt="logo"/></div>
             <label class="welcome__toogle"></label>
           </li>
-            <div class="sedona-foto sedona__foto_small">
-              <img src="" alt="foto" class="foto">
-              <div class="sedona-foto__welcome">Welcome</div>
-              <div class="sedona-foto_gorgeous">to the gorgeous</div>
-              <div class="sedona-foto__sedona">SEDONA</div>
-              <div class="sedona-foto__grand">"Because the Grand Canyon sucks!"</div>
-            </div>
         </ul>
+        <div class="sedona-foto sedona__foto_small">
+          <img src="" alt="foto" class="foto">
+          <div class="sedona-foto__welcome">Welcome</div>
+          <div class="sedona-foto_gorgeous">to the gorgeous</div>
+          <div class="sedona-foto__sedona">SEDONA</div>
+          <div class="sedona-foto__grand">"Because the Grand Canyon sucks!"</div>
+        </div>
       </div>
     </header>
   </div>
