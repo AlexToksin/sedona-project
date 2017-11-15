@@ -50,7 +50,15 @@
       <div class="presentation__text">Смотрите видеопрезентацию и скорее за билетами,
         пока они не подорожали в очередной раз!</div>
       <div class="video">
-
+        <div class="video__player">
+          <div class="video__track">
+          </div>
+          <div class="video__control">
+            <div class="video__refresh"></div>
+            <div class="video__сс"></div>
+            <div class="video__fullscreen"></div>
+          </div>
+        </div>
       </div>
       <div class="like">
         <a href=""><img src="" alt="" class="like"></a>
