@@ -8,9 +8,9 @@
           <li class="main-nav__item"><a href="">Фото и видео</a></li>
           <li class="main-nav__item"><a href="">Форма отзыва</a></li>
           <li class="main-nav__item"><a href="">HTML academy</a></li>
-          <li class="main-nav__item">
+          <li class="main-nav__item main-nav__item_mod">
             <div class="welcome__logo"><img src="" class="logo" alt="logo"/></div>
-            <div class="welcome__toogle"></div>
+            <label class="welcome__toogle"></label>
           </li>
             <div class="sedona-foto sedona__foto_small">
               <img src="" alt="foto" class="foto">

@@ -15,16 +15,13 @@
             <div class="form-callback__requisites">
               <div class="title">Представьтесь, пожалуйста:</div>
               <div class="form-callback__item">
-                <div class="text">Name</div>
-                <input type="text" class="name" placeholder="Alex">
+                <label>Имя<input type="text" class="name" placeholder="Alex"></label>
               </div>
               <div class="form-callback__item">
-                <div class="text">Lastname</div>
-                <label><input type="text" class="item" placeholder="Toksin"></label>
+                <label>Фамилия<input type="text" class="item" placeholder="Toksin"></label>
               </div>
               <div class="form-callback__item">
-                <div class="text">Firstname</div>
-                <label><input type="text" class="firstname" placeholder="Vyacheslavovich"></label>
+                <label>Отчество<input type="text" class="firstname" placeholder="Vyacheslavovich"></label>
               </div>
             </div>
           </li>
@@ -32,20 +29,16 @@
           <li class="form-callback__item">
             <div class="form-callback__contacts">
               <div class="title">Контактная информация</div>
-
-              <div class="form-callback__number">
-                <div class="text">Контактный номер</div>
-                <input type="text" class="number" placeholder="Введите номер">
-                <img src="" alt="" class="telefon">
-                <div class="form-callback__error">Пожалуйста, проверте номер</div>
-              </div>
-
-              <div class="form-callback__mail">
-                <div class="text">Электронная почта</div>
-                <input type="text" class="mail" placeholder="Введите почту">
-                <img src="" alt="" class="mail">
-                <div class="form-callback__error">Please, renumber contact mail</div>
-              </div>
+                <div class="form-callback__number">
+                  <label> Контактный номер<input type="text" class="number" placeholder="Введите номер"></label>
+                  <img src="" alt="" class="telefon">
+                  <div class="form-callback__error">Пожалуйста, проверте номер</div>
+                 </div>
+                 <div class="form-callback__mail">
+                   <label>Электронная почта<input type="text" class="mail" placeholder="Введите почту"></label>
+                   <img src="" alt="" class="mail">
+                   <div class="form-callback__error">Please, renumber contact mail</div>
+                 </div>
             </div>
           </li>
 
