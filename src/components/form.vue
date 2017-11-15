@@ -20,11 +20,11 @@
               </div>
               <div class="form-callback__item">
                 <div class="text">Lastname</div>
-                <input type="text" class="item" placeholder="Toksin">
+                <label><input type="text" class="item" placeholder="Toksin"></label>
               </div>
               <div class="form-callback__item">
                 <div class="text">Firstname</div>
-                <input type="text" class="firstname" placeholder="Vyacheslavovich">
+                <label><input type="text" class="firstname" placeholder="Vyacheslavovich"></label>
               </div>
             </div>
           </li>
