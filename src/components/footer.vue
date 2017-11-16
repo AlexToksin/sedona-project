@@ -2,7 +2,7 @@
   <div>
     <!--footer-->
     <footer class="footer">
-        <a href="" class="visit-sedona">#VISITSEDONA</a>
+        <div class="tag"><a href="" class="visit-sedona">#VISITSEDONA</a></div>
         <div class="social-link">
           <div class="social-link__item"><a href=""><img src="" alt="">Твитер</a></div>
           <div class="social-link__item"><a href=""><img src="" alt="">Фэйсбук</a></div>
