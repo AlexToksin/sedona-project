@@ -31,13 +31,13 @@
               <div class="title">Контактная информация</div>
                 <div class="form-callback__number">
                   <label> Контактный номер<input type="text" class="number" placeholder="Введите номер"></label>
-                  <img src="" alt="" class="telefon">
+                  <img src="../assets/form-callback/icon-phone.svg" alt="" class="telefon">
                   <div class="form-callback__error">Пожалуйста, проверте номер</div>
                  </div>
                  <div class="form-callback__mail">
                    <label>Электронная почта<input type="text" class="mail" placeholder="Введите почту"></label>
-                   <img src="" alt="" class="mail">
-                   <div class="form-callback__error">Please, renumber contact mail</div>
+                   <img src="../assets/form-callback/icon-mail.svg" alt="" class="mail">
+                   <div class="form-callback__error">Пожалуйста, проверте почту</div>
                  </div>
             </div>
           </li>

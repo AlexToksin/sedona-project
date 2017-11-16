@@ -4,13 +4,13 @@
     <footer class="footer">
         <div class="tag"><a href="" class="visit-sedona">#VISITSEDONA</a></div>
         <div class="social-link">
-          <div class="social-link__item"><a href=""><img src="" alt="">Твитер</a></div>
-          <div class="social-link__item"><a href=""><img src="" alt="">Фэйсбук</a></div>
-          <div class="social-link__item"><a href=""><img src="" alt="">Ютуб</a></div>
+          <div class="social-link__item social-link__item_twitter"><a href=""><img src="" alt="">Твитер</a></div>
+          <div class="social-link__item social-link__item_facebook"><a href=""><img src="" alt="">Фэйсбук</a></div>
+          <div class="social-link__item social-link__item_youtube"><a href=""><img src="" alt="">Ютуб</a></div>
         </div>
         <div class="htmlacademy">
           <a href="" class="link">Разработано</a>
-          <img src="" alt="HTMLA_ac_ico">
+          <div class="htmlacademy__ico"><img src="./../assets/htmlacademy/htmlacademy.svg" alt="HTMLA_ac_ico"></div>
         </div>
     </footer>
   </div>

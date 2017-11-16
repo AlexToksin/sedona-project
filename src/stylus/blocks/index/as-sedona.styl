@@ -1,0 +1,42 @@
+.as-sedona{
+  &__title-wraper{
+    //display flex
+    //flex-direction column
+    //justify-content center
+    //align-items center
+    //width 70vw
+  }
+  &__item{
+    display flex
+    flex-direction column
+    text-align center
+  }
+  &__hidden{
+    //display none
+
+  }
+  &__visible{
+    background-color #eeeeee
+    border-bottom 1px solid rgba(1,1,1,0.1)
+  }
+  &__visible, &__visible:hover{
+    padding 10vw
+    display flex
+    flex-direction column
+    justify-content center
+    align-items center
+  }
+  &__visible:hover{
+    background-color #81b3d2
+    color #fff
+    .text_color, .title_color{
+      color #fff
+    }
+  }
+  .ico{
+    width 40px
+  }
+  &__i-wrapper{
+    display flex
+  }
+}

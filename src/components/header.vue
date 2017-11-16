@@ -4,21 +4,17 @@
     <header class="header">
       <div class="main-nav">
         <ul class="main-nav__list">
-          <li class="main-nav__item"><a href="" class="title_mod">Главная</a></li>
-          <li class="main-nav__item"><a href="" class="title_mod">Фото и видео</a></li>
-          <li class="main-nav__item"><a href="" class="title_mod">Форма отзыва</a></li>
-          <li class="main-nav__item"><a href="" class="title_mod">HTML academy</a></li>
+          <li class="main-nav__item"><a href="/" class="title title_mod">Главная</a></li>
+          <li class="main-nav__item"><a href="/photo" class="title title_mod">Фото и видео</a></li>
+          <li class="main-nav__item"><a href="/form" class="title title_mod">Форма отзыва</a></li>
+          <li class="main-nav__item"><a href="https://htmlacademy.ru/" class="title title_mod">HTML academy</a></li>
           <li class="main-nav__item main-nav__item_mod">
-            <div class="main-nav__logo"><img src="" class="logo" alt="logo"/></div>
-            <label class="main-nav__toogle"></label>
+            <div class="main-nav__logo"><img src="../assets/logo/logo-sedona-mobile.svg" class="logo" alt="logo"/></div>
+            <label class="main-nav__toggle"></label>
           </li>
         </ul>
         <div class="sedona-foto sedona-foto_small">
-          <img src="" alt="foto" class="foto">
-          <div class="sedona-foto__welcome">Welcome</div>
-          <div class="sedona-foto__gorgeous">to the gorgeous</div>
-          <div class="sedona-foto__sedona">SEDONA</div>
-          <div class="sedona-foto__grand">"Because the Grand Canyon sucks!"</div>
+          <img src="../assets/sedona-foto/bg-back-mobile@1x.jpg" alt="foto" class="foto">
         </div>
       </div>
     </header>
