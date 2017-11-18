@@ -1,5 +1,12 @@
 <template>
   <div>
+    <div class="sedona-foto sedona-foto_small">
+      <picture>
+        <source srcset="../assets/sedona-foto/bg-back-mobile@1x.jpg, ../assets/sedona-foto/bg-back-desktop@2x.jpg"/>
+        <source srcset="../assets/sedona-foto/bg-back-desktop@1x.jpg, ../assets/sedona-foto/bg-back-desktop@2x.jpg" media="(min-width: 720px)"/>
+      <img src="../assets/sedona-foto//bg-back-mobile@1x.jpg" alt="foto" class="sedona-foto__text">
+      </picture>
+    </div>
     <!--as-sedona-->
     <div class="as-sedona">
       <div class="as-sedona__wrapper">
@@ -50,7 +57,7 @@
           </li>
           <li class="as-sedona__item">
             <div class="as-sedona__visible">
-              <div class="title">НЕБОЛЬШАЯ ПЛОЩАДЬ    </div>
+              <div class="title title_color">НЕБОЛЬШАЯ ПЛОЩАДЬ    </div>
               <div class="as-sedona__count">— №3 —  </div>
               <div class="text text_color">ВСЕ достопримечательности находятся очень близко</div>
             </div>
@@ -91,7 +98,7 @@
 38018730555!2d-111.86517855273749!3d34.85435832354933!2m3!1f0!2f0!3f
 0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da132f942b00d%3A0x5548c523fa6
 c8efd!2z0KHQtdC00L7QvdCwLCDQkNGA0LjQt9C-0L3QsCA4NjMzNiwg0KHQqNCQ!5e0
-!3m2!1sru!2sru!4v1510827969410" width="400" height="300"
+!3m2!1sru!2sru!4v1510827969410" width="100%" height="300"
               frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
 

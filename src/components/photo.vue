@@ -64,10 +64,6 @@
           </div>
         </div>
       </div>
-      <div class="like">
-        <a href=""><img src="../assets/like/icon-like.svg" alt="" class="like">*</a>
-        <div class="counter"></div>
-      </div>
     </div>
   </div>
 </template>

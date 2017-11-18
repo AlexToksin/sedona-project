@@ -4,9 +4,9 @@
     <footer class="footer">
         <div class="tag"><a href="" class="visit-sedona">#VISITSEDONA</a></div>
         <div class="social-link">
-          <div class="social-link__item social-link__item_twitter"><a href=""><img src="" alt="">Твитер</a></div>
-          <div class="social-link__item social-link__item_facebook"><a href=""><img src="" alt="">Фэйсбук</a></div>
-          <div class="social-link__item social-link__item_youtube"><a href=""><img src="" alt="">Ютуб</a></div>
+          <div class="social-link__item social-link__item_twitter"><a href=""></a></div>
+          <div class="social-link__item social-link__item_facebook"><a href=""></a></div>
+          <div class="social-link__item social-link__item_youtube"><a href=""></a></div>
         </div>
         <div class="htmlacademy">
           <a href="" class="link">Разработано</a>
