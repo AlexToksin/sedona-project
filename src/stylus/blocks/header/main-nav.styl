@@ -1,0 +1,111 @@
+  .main-nav {
+
+    &__list {
+      padding 0;
+      margin 0;
+      display flex
+      flex-direction column
+
+    }
+    &__item {
+      display flex
+      justify-content center
+      position: relative
+      background-color #81b3d2;
+      padding 16.5px
+      margin-bottom 1px
+      box-shadow: 0 1px 0 rgba(1, 1, 1, 0.5);
+      &_mod {
+        display flex
+        background-color #fff
+        padding 0px
+        box-shadow none
+        order: 6
+      }
+    }
+    &__logo{
+      display flex
+      align-self center
+      z-index 2
+    }
+    &__toggle {
+      position: absolute
+      width 23px
+      right 20px
+      top 17px
+    }
+    &__cross{
+      width: 23px;
+      position: absolute;
+      right: 17px;
+    }
+  }
+  .active{
+    display none
+  }
+
+@media (min-width: 768px){
+  .main-nav{
+    display flex
+    flex-direction row
+    width 100%
+    &__list{
+      display flex
+      flex-direction row
+      width 100%
+      justify-content none
+      counter-reset list
+      & .main-nav__item:nth-child(1){
+        order 1
+      }
+      & .main-nav__item:nth-child(2){
+        order 2
+      }
+      & .main-nav__item:nth-child(5){
+
+        order:3
+
+      }
+      & .main-nav__item:nth-child(4){
+        order 5
+      }
+      & .main-nav__item:nth-child(3){
+
+        order 4
+      }
+    }
+    &__item{
+      display flex
+      align-items center
+      background-color #fff;
+      box-shadow: none
+      width 20%
+      height 80%
+      margin 0
+      padding 0
+      &_mod{
+        display flex
+        height 100%
+        order: 3
+      }
+    }
+    &__toggle{
+      display none
+    }
+    &__logo{
+      display flex
+    }
+    &__cross{
+      display none
+    }
+  }
+  .title_mod{
+    font-size 14px
+    color #000
+  }
+  .active{
+    display flex
+  }
+
+}
+

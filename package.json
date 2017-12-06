@@ -11,7 +11,14 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+<<<<<<< Updated upstream
+=======
+    "axios": "^0.17.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+>>>>>>> Stashed changes
     "vue": "^2.5.2",
+    "vue-debug": "0.0.1",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
@@ -23,6 +30,7 @@
     "babel-preset-stage-2": "^6.22.0",
     "babel-register": "^6.22.0",
     "chalk": "^2.0.1",
+    "js-cookie": "^2.1.4",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.28.0",
     "eventsource-polyfill": "^0.9.6",

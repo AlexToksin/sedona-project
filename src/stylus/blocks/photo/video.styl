@@ -1,0 +1,67 @@
+.video{
+  display flex
+  width 100%
+  flex-direction column
+  position relative
+  &__control{
+    display: flex
+    flex-direction column
+  }
+  &__track-wrapper{
+    position absolute
+    height 45px
+    width: 100%;
+    bottom: 60px;
+    background-color rgba(0,0,0,0.6)
+  }
+  &__track{
+    display flex
+    position: relative;
+    top: 50%;
+    width: 80%;
+    height: 3px;
+    left: 10%;
+    background-color: rgba(255,255,255,0.2);
+    &:after{
+      content ''
+      position absolute
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      bottom: -4px;
+      background-color: rgba(255,255,255,1);
+    }
+  }
+  &__option{
+    display flex
+    background-color #f2f2f2
+    width 100%
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    position absolute
+    bottom 0
+  }
+  &__item{
+    display flex
+    justify-content space-between
+    align-items center
+    &-wrapper{
+      display flex
+      flex-direction row
+    }
+    &_mod{
+      margin-right 30px
+    }
+  }
+  &__pointer{
+
+  }
+}
+@media (min-width: 768px){
+.video{
+  display flex
+  margin auto
+  width 648px
+}
+}

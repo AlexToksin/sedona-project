@@ -1,7 +1,16 @@
 <template>
+<<<<<<< Updated upstream
   <div id="app">
     <img src="./assets/logo.png">
     <router-view/>
+=======
+  <div id="app" class="main">
+    <div class="wrapper">
+    <header-block></header-block>
+    <router-view/>
+    <footer-block></footer-block>
+    </div>
+>>>>>>> Stashed changes
   </div>
 </template>
 
